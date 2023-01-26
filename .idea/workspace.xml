@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb220b0-3e4b-4f0b-8a8d-525dbcbb1ab2" name="Changes" comment="creating classes that will be needed in the project">
+    <list default="true" id="3fb220b0-3e4b-4f0b-8a8d-525dbcbb1ab2" name="Changes" comment="creating fields for the patient class">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/Patient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674677432367</updated>
-      <workItem from="1674677433614" duration="1398000" />
+      <workItem from="1674677433614" duration="1698000" />
     </task>
     <task id="LOCAL-00001" summary="creating classes that will be needed in the project">
       <created>1674757098150</created>
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674757277711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creating fields for the patient class">
+      <created>1674757653888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674757653888</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating classes that will be needed in the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating classes that will be needed in the project" />
+    <MESSAGE value="creating fields for the patient class" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating fields for the patient class" />
   </component>
 </project>
