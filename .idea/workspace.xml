@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb220b0-3e4b-4f0b-8a8d-525dbcbb1ab2" name="Changes" comment="creating constructors, getters and setters for the patient class">
+    <list default="true" id="3fb220b0-3e4b-4f0b-8a8d-525dbcbb1ab2" name="Changes" comment="Adding a constructor for the AppMenu class that will be responsible for the operation of the application.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/AppMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/AppMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/VeterinarySystem/Patient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674677432367</updated>
       <workItem from="1674677433614" duration="2537000" />
-      <workItem from="1674758711133" duration="4815000" />
+      <workItem from="1674758711133" duration="9482000" />
     </task>
     <task id="LOCAL-00001" summary="creating classes that will be needed in the project">
       <created>1674757098150</created>
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674757801475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding a constructor for the AppMenu class that will be responsible for the operation of the application.">
+      <created>1674766783612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674766783612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,13 +129,7 @@
     <MESSAGE value="creating classes that will be needed in the project" />
     <MESSAGE value="creating fields for the patient class" />
     <MESSAGE value="creating constructors, getters and setters for the patient class" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating constructors, getters and setters for the patient class" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <inline-watch fileUrl="file://$PROJECT_DIR$/src/main/java/org/VeterinarySystem/AppMenu.java" line="37">
-        <watch expression="owner" language="JAVA" />
-      </inline-watch>
-    </watches-manager>
+    <MESSAGE value="Adding a constructor for the AppMenu class that will be responsible for the operation of the application." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a constructor for the AppMenu class that will be responsible for the operation of the application." />
   </component>
 </project>
